@@ -1,1 +1,8 @@
+#Faisse Mahamat Dagache 17A939FS
 
+def._versement(self.montant):
+self.__solde + = montant
+def_str__(self):
+retour ".le solde du compte: "
++self._numero+)"est: " +
+str(self._solde)
